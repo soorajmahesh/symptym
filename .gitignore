@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / React Native
+node_modules/
+.expo/
+ios/Pods/
+android/.gradle/
+
+# Secrets
+.env
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
